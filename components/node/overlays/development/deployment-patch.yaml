@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/kkanova0/node:d9360f96495e4b52aa8786db474be95f249dacaf@sha256:ce455d26f4ba9e6a241d15030d04115c34f7ad264494d42510dbbcf535b2f6bc
+        - image: quay.io/kkanova0/node:2c41d55abba17b0bd14f39cdd319aa5e5379a160@sha256:64e15c3fa8891299989bfe149ca6a74afd42a725068ad082199093b8f699f89d
           name: container-image
